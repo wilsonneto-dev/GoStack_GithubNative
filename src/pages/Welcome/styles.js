@@ -16,6 +16,12 @@ const styles = StyleSheet.create({
     fontSize: 24,
     fontWeight: 'bold',
   },
+  error: {
+    color: colors.white,
+    fontSize: 15,
+    textAlign: 'center',
+    marginTop: 10
+  },
   text: {
     color: colors.lighter,
     fontSize: 14,
